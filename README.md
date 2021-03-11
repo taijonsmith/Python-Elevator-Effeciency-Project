@@ -1,4 +1,4 @@
-# PythonElevatorEffeciencyProject
+# Python-Elevator-Effeciency-Project
 
 Run the elevator.py script to start the application (located in the scripts directory) and follow the instructions given in the console.
 
